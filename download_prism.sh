@@ -1,0 +1,43 @@
+#!/bin/bash
+wget -r ftp://prism.nacse.org/daily/tmin/2012/ 
+wget -r ftp://prism.nacse.org/daily/tmin/2013/ 
+wget -r ftp://prism.nacse.org/daily/tmin/2014/ 
+wget -r ftp://prism.nacse.org/daily/tmin/2015/ 
+wget -r ftp://prism.nacse.org/daily/tmin/2016/ 
+wget -r ftp://prism.nacse.org/daily/tmin/2017/ 
+wget -r ftp://prism.nacse.org/daily/tmin/2018/ 
+wget -r ftp://prism.nacse.org/daily/tmin/2019/ 
+wget -r ftp://prism.nacse.org/daily/tmax/2012/ 
+wget -r ftp://prism.nacse.org/daily/tmax/2013/ 
+wget -r ftp://prism.nacse.org/daily/tmax/2014/ 
+wget -r ftp://prism.nacse.org/daily/tmax/2015/ 
+wget -r ftp://prism.nacse.org/daily/tmax/2016/ 
+wget -r ftp://prism.nacse.org/daily/tmax/2017/ 
+wget -r ftp://prism.nacse.org/daily/tmax/2018/ 
+wget -r ftp://prism.nacse.org/daily/tmax/2019/ 
+wget -r ftp://prism.nacse.org/daily/ppt/2012/ 
+wget -r ftp://prism.nacse.org/daily/ppt/2013/ 
+wget -r ftp://prism.nacse.org/daily/ppt/2014/ 
+wget -r ftp://prism.nacse.org/daily/ppt/2015/ 
+wget -r ftp://prism.nacse.org/daily/ppt/2016/ 
+wget -r ftp://prism.nacse.org/daily/ppt/2017/ 
+wget -r ftp://prism.nacse.org/daily/ppt/2018/ 
+wget -r ftp://prism.nacse.org/daily/ppt/2019/ 
+wget -r ftp://prism.nacse.org/daily/vpdmax/2012/ 
+wget -r ftp://prism.nacse.org/daily/vpdmax/2013/ 
+wget -r ftp://prism.nacse.org/daily/vpdmax/2014/ 
+wget -r ftp://prism.nacse.org/daily/vpdmax/2015/ 
+wget -r ftp://prism.nacse.org/daily/vpdmax/2016/ 
+wget -r ftp://prism.nacse.org/daily/vpdmax/2017/ 
+wget -r ftp://prism.nacse.org/daily/vpdmax/2018/ 
+wget -r ftp://prism.nacse.org/daily/vpdmax/2019/ 
+wget -r ftp://prism.nacse.org/daily/vpdmin/2012/ 
+wget -r ftp://prism.nacse.org/daily/vpdmin/2013/ 
+wget -r ftp://prism.nacse.org/daily/vpdmin/2014/ 
+wget -r ftp://prism.nacse.org/daily/vpdmin/2015/ 
+wget -r ftp://prism.nacse.org/daily/vpdmin/2016/ 
+wget -r ftp://prism.nacse.org/daily/vpdmin/2017/ 
+wget -r ftp://prism.nacse.org/daily/vpdmin/2018/ 
+wget -r ftp://prism.nacse.org/daily/vpdmin/2019/ 
+exec bash
+
