@@ -41,6 +41,7 @@ def haversine(lon1, lat1, lon2, lat2):
     return km
 
 
+
 # Get PRISM data
 def proc_PRISMbil(ThisCol, ThisRow, bil_path):
     """

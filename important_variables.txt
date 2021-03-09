@@ -1,0 +1,129 @@
+TSS, pH, TA, YAN, ACY1, ACY2
+As for yields, I typically run data on kgm cane or lbftcane (this puts yield on
+a per linear row basis rather than per plant), as different vine densities can
+lead to different crop levels that do not relate when compared on a per acre
+basis.
+
+
+
+From Grapes by Glen L. Creasy and Leroy L. Creasy
+
+Chapter 7 - Nutrition
+
+Macronutrients
+
+Nitrogen
+
+* Key part of many plant cell functions bc it is used in making the amino acids used to build proteins, which are used to make the enzymes responsible for much of the work done in plants as well as making structural components
+    - If lacking = vine leaves will turn completely  yellow, produce more root to shoot ratio
+    - excess leads to overly vigorous growth and large and dark green leaf blades (indirect and negative effects on vine fruitfulness).
+
+* To correct a deficiency, apply before bud break and maybe a second time at bloom (takes up most nitrogen)
+
+
+Phosphorus
+
+* contains phospholipids and nucleic acids used in cell building and therefore abundant in meristematic regions such as actively growing shoot and root tips.
+* involved in sugar metabolism, respiration, and photosynthesis
+    - vines are rarely deficient in this nutrient -- possibly due to efficient capture from the soil and its remobilization within the plant.
+    - not mobile in the soil, so need new soil to secure it. 
+
+
+Sulphur
+
+* Sulphur is taken up by roots in the form of suphlate, though it can also be taken up by leaves when it is in its gaseous form, which is an active form of that prevents powdery mildew infection.
+    - rarely deficient bc it is frequently applied in a spray for control of powdery mildew.
+
+
+
+Potassium
+
+* Important element in protein and fat synthesis, enzyme activation and as an osmotic charge balancer. 
+    - deficiencies cause marginal necrosis and leaf cupping and should be addressed asap.
+
+
+
+Calcium
+
+* "cement of plant structure", calcium is a component of the middle lamella that holds plant cells together and maintains cell integrity.
+    - infrequently deficient in vineyards, but an application may be used to increase soil pH and to treat high-sodium soils.
+
+
+Magnesium
+
+* central mineral element in the chlorophyll pigment (Mg), which assures the importance of this nutrient in plant growth.
+* functions in chlorophyll synthesis, enzyme activation and can play a similar role to Ca in membrane stability.
+    - deficiency can occur, with symptoms that include chlorosis between the large veins and chlorotic leaf margins and red coloration in red grape varieties.
+        - most common on very low-pH soils
+        - increased by K fertilization
+
+
+
+Micronutrients
+
+Iron
+* Not present in chlorophyll, but is required for chlorophyll synthesis and is involved with electron transport in respiration. 
+    - deficiency shows up first in early-season chlorosis in young leaves
+    - When cold, vines are limited in Iron uptake, but as the soil warms it becomes less of a problem.
+
+
+
+
+
+Manganese
+* essential in the synthesis of chlorophyll and plays a role in enzymatic reduction -- oxidation reactions that power most functions in the plant tissues.
+    - deficiencies are identified by interveinal chlorosis on shaped and mature leaves
+    - disease control can help maintain Manganese 
+
+
+
+
+Copper
+* nonprotein component of several oxidizing enzymes and is an important part of the electron-transport chain in photosynthesis - deficient symptoms for Cu in grapevines are similar to those of Fe-induced chlorosis and is not moved from one place to another within the plant.
+    - not very toxic to many organisms 
+    - Applying Bordeaux mixture is often applied to control downy mildew which contains copper.
+    - high levels can reduce root growth and development
+
+
+
+Zinc
+* important in the synthesis of the growth regulator indole acetic acid, is a component of many different enzymes and plays an important role in pollen and fruit formation.
+    - not very mobile, so if Zinc is deficient part-way through a season, younger rather than older plant tissues will show symptoms.
+    - deficiency is characterized by abnormal development of internodes, interveinal chlorosis in early summer, small leaves, and a widened petiolar sinus. 
+
+
+
+
+Molybdenum
+* a component of the enzyme systems that carry out reduction -- oxidation reactions. 
+    - Important for incorporation of root supplied Nitrogen into the sell and other enzymes involved in cell function. 
+    - important for pollen formation and fruit set.
+    - is mobile and requires very small amounts
+    - deficiency has been identified as the cause of the "Merlot" problem in south Australia where foliar sprays of the nutrient applied at bloom greatly improved vineyards.
+
+
+
+
+Boron
+* important in cell division and in the normal development of pollen and pollen growth
+    - deficient have poor fruit set.
+    - important component of cell walls and is not mobile within the plant. 
+    - deficiency is also associated with dry soils but is easily corrected by soil and/or foliar applications of soluble borates.
+    - toxic symptoms are misshapen and small leaves on new growth, brown spots on the margins of older leaves and sometimes death of the shoot tips.
+    - toxicity may occur through the use of high-boron-containing Potash as fertilizer or in high-boron irrigation water.
+
+
+Chlorine
+* is abundant in nature and can be supplied through rainfall
+    - is important in photosynthetic reactions as an activator of enzyme reactions and as a charging balancing infection.
+    - little is required by plants, but it is usually found at much higher levels than this- very mobile within the plant
+    - few incidences of deficiency
+    - usual concern is toxicity, which can result in reduced shoot growth and the critical toxic concentration for grapevines is 400 mb /Cl/kg soikld
+
+
+
+
+
+
+
+
