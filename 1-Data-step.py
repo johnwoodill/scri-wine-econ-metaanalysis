@@ -3,7 +3,8 @@ from dask import compute
 # from dask.distributed import Client, progress
 import dask.dataframe as dd
 import pandas as pd
-
+import nonlineartemppy.calculations as nltemp
+import glob
 
 
 if __name__ == "__main__":
@@ -42,3 +43,26 @@ if __name__ == "__main__":
 
     indf_dd = dd.from_pandas(indf, npartitions=10)
     res = indf_dd.groupby('index').apply(lambda x: proc_prism(x, farm_lookup['gridNumber']), meta='f8').compute(scheduler='processes')
+    
+    print("[4/] Bind PRISM Data")
+    
+    prism_files = glob.glob("tmp/prism_processed/*.csv")
+    
+    lst_ = []
+    for file_ in prism_files:
+        df = pd.read_csv(file_)
+        lst_.append(df)
+    
+    prism_dat = pd.concat(lst_)    
+    prism_dat = prism_dat.sort_values('date')
+    prism_dat = prism_dat.set_index(['date', 'gridNumber', 'lat', 'lon', 'var']).unstack('var').reset_index()
+    prism_dat.columns = ['date', 'gridNumber', 'lat', 'lon', 'ppt', 'tmax', 'tmin', 'vpdmax', 'vpdmin']
+    prism_dat
+    
+    # Get degree days from 0-40C
+    prism_dat_dd = nltemp.degree_days(prism_dat, range(0, 40)).reset_index(drop=True)
+    prism_dat_dd.to_csv('data/full_prism_degree_days.csv', index=False)
+    
+    # Get degree days from 0-40C
+    prism_dat_td = nltemp.degree_time(prism_dat, range(0, 40)).reset_index(drop=True)
+    prism_dat_td.to_csv('data/full_prism_degree_time.csv', index=False)
